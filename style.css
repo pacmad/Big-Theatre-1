@@ -1,0 +1,47 @@
+body {
+	font-family: Open Sans Condensed;
+	font-style: normal;
+	font-weight: bold;
+	letter-spacing: 0.1em;
+	text-transform: uppercase;
+	color: #FFFFFF;
+}
+
+header {
+	background: linear-gradient(0deg, rgba(51, 51, 51, 0.85), rgba(51, 51, 51, 0.85)), url(source/first_screen.png);
+}
+
+ul {
+
+}
+
+li{
+
+}
+
+nav{
+
+}
+.navi {
+	float: left;
+	margin-left: 63px;
+}
+
+a {
+	font-size: 18px;
+	line-height: 25px;
+	color: #FFF;
+	text-decoration:none;
+}
+
+a:hover {
+	color:#7d5910;
+}
+
+aside {
+	margin: 0;
+	padding: 0;
+	background: rgba(51, 51, 51, 0.75);
+	height: 1045px;
+	width: 150px;
+}
